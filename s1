@@ -3,7 +3,10 @@ sdn_controller:10.20.2.2
 vlans:
   red:
     id:10
-  blue:20
+  blue:
+     id:20
+  yellow;
+     id:30
 ports:
 1: [ 20 ]
 2: [ 10 ]
